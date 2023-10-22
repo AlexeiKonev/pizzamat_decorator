@@ -128,7 +128,7 @@ namespace Pizzeria
 
         public override string GetDescription()
         {
-            return Pizza.GetDescription() + " , Mushrum";
+            return Pizza.GetDescription() + " , Mushrum ";
         }
         public override decimal GetCost()
         {
